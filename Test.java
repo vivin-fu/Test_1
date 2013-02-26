@@ -4,6 +4,8 @@ class Example {
 //abc test
 //add modification
 //master: add modification
+//master2:
+
     
     Example(){
     	System.out.println("Example instance");
