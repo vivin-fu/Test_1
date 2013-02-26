@@ -3,6 +3,7 @@ class Example {
     int b;
 //abc test
 //add modification
+//master: add modification
     
     Example(){
     	System.out.println("Example instance");
