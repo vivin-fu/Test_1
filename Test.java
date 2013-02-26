@@ -6,7 +6,7 @@ class Example {
 //master: add modification
 //master2:
 //master3:
-
+//master4
     
     Example(){
     	System.out.println("Example instance");
