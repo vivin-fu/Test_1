@@ -7,6 +7,7 @@ class Example {
 //master2:
 //master3:
 //master4
+//tester1
     
     Example(){
     	System.out.println("Example instance");
